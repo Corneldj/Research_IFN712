@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Research.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-path \"Data.csv\" -g 1000"
+    }
+  }
+}
